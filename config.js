@@ -11,7 +11,7 @@ const CONFIG = {
     // └─┘┴ ┴└─┘┴└─┘└─┘
 
     // General
-    name: 'Ming',
+    name: 'Ming Mecca',
     imageBackground: false,
     openInNewTab: true,
     twelveHourFormat: false,
